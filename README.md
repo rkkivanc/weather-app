@@ -2,6 +2,12 @@
 
 A Flutter weather app that shows current conditions and a 5-day forecast with Lottie animations. The app currently supports a city picker with predefined cities and uses the OpenWeatherMap API.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5f82bbb8-ac35-471c-843d-c99af2e87ba0" width="300" />
+  <br>
+  <p><i>Application Preview</i></p>
+</div>
+
 ## Features
 
 - Current weather: temperature, humidity, wind speed, and description.
